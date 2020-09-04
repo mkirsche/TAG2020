@@ -5,7 +5,7 @@
 **Office Hours**: Tuesdays 10:30 AM to 11:30 AM (EST) or by appointment - see Piazza for Zoom link
 
 
-**Course Meeting Times**
+**Course Meeting Times**:
 
 | Section | Day | Time |
 |---|---|---|
