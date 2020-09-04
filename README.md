@@ -5,7 +5,7 @@
 
 Theory and Applications of Graphs: Social Networks, Search Engines, and Gene Interactions	(EN 500.111)
 
-**Professor**: Melanie Kirsche (mkirsche @ jhu.edu)
+**Instructor**: Melanie Kirsche (mkirsche @ jhu.edu)
 
 **Office Hours**: Tuesdays 10:30 AM to 11:30 AM (EST) or by appointment - see Piazza for Zoom link
 
