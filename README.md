@@ -1,4 +1,4 @@
-# Theory and Applications of Graphs, Fall 2020 (EN 500.111)
+# Theory and Applications of Graphs, Fall 2020
 
 
 ## Course Information
