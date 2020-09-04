@@ -36,11 +36,11 @@ Slides will be posted here prior to each lecture, and required readings for each
 |---|---|---|---|---|
 | Week 1 | 9/8, 9/9 | Introductions, Definitions and Terminology | | None |
 | Week 2 | 9/15, 9/16 | Path-Finding Algorithms | | |
-| Week 3 | 9/22, 9/23 | Path-Finding in Navigation Software  | | |
-| Week 4 | 9/29, 9/30 | Graphs in Social Networks | | |
-| Week 5 | 10/6, 10/7 | Graphs in Search Engines | | |
-| Week 6 | 10/13, 10/14 | Graphs in Computational Biology | | |
+| Week 3 | 9/22, 9/23 | Path-Finding in Maps and Navigation Software  | | |
+| Week 4 | 9/29, 9/30 | Social Network Graphs from Friendship to Disease Transmission | | |
+| Week 5 | 10/6, 10/7 | Knowledge Graphs in Databases and Search Engines | | |
+| Week 6 | 10/13, 10/14 | Graphs in Computational Biology: Genome Assembly and Gene Interactions | | |
 | Week 7 | 10/27, 10/28 | Jasmine: A Graph Algorithm for Population-Scale Structural Variant Calling | | |
 | Week 8 | 11/3, 11/4 | Dynamic Programming and Decision Trees | | |
-| Week 9 | 11/10, 11/11 | Graphs in Computer Vision | | |
+| Week 9 | 11/10, 11/11 | Graphs in Computer Vision and Image Processing | | |
 | Week 10 | 11/17, 11/18 | Student Presentations | | |
