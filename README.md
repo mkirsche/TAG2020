@@ -1,7 +1,6 @@
 # Theory and Applications of Graphs, Fall 2020 (EN 500.111)
 
 **Professor**: Melanie Kirsche (mkirsche @ jhu.edu)
-
 **Office Hours**: Tuesdays 10:30 AM to 11:30 AM (EST) or by appointment - see Piazza for Zoom link
 
 
@@ -14,6 +13,8 @@
 
 
 ## Course Description
+
+Theory and Applications of Graphs: Social Networks, Search Engines, and Gene Interactions	(EN 500.111)
 
 Graphs are a mathematical structure used to represent relationships between objects, and they can be found throughout the sciences as well as in the computer and phone applications people use every day.  From modeling friendships in social networks, to giving the best directions on a map, to assembling genomes, there is a never-ending range of applications for graphs and the algorithms used to process them.  In this course we will explore some of the real-world applications of graphs which drive the need for efficient algorithms.
 
