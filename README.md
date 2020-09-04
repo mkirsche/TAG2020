@@ -7,7 +7,7 @@
 
 **Course Meeting Times**
 
-| Section | Day | Time 
+| Section | Day | Time |
 |---|---|---|
 | 09 | Tuesday | 8:30-9:45 AM (EST) |
 | 20 | Wednesday | 8:30-9:45 AM (EST) |
@@ -21,13 +21,11 @@ Graphs are a mathematical structure used to represent relationships between obje
 
 This course is graded on a satisfactory/unsatisfactory basis.  This grade will be based on two factors:
  * Regular attendance and participation in the course (at most one absence will be permitted except in the case of extraordinary circumstances)
- * A group presentation about a chosen application of graphs on the final day of class - details to folow 
+ * A group presentation about a chosen application of graphs on the final day of class - details to follow 
  
 
 ## Course Resources
 * [Piazza Discussion Board](piazza.com/jhu/fall2020/en500111)
-
-## Related Optional Readings
 
 
 ## Course Outline
