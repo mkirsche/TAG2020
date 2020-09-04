@@ -30,7 +30,7 @@ This course is graded on a satisfactory/unsatisfactory basis.  Grades will be ba
 
 ## Course Outline
 
-Slides will be posted here prior to each lecture, and required readings for each class will be posted immediately no later than the end of the day of the previous class. 
+Slides will be posted here prior to each lecture, and required readings for each class will be posted  no later than the end of the day of the previous class. 
 
 | Course Session | Dates | Subject | Link to Slides | Required Reading or Viewing |
 |---|---|---|---|---|
