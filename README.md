@@ -1,6 +1,8 @@
 # Theory and Applications of Graphs, Fall 2020 (EN 500.111)
 
 
+## Course Information
+
 **Professor**: Melanie Kirsche (mkirsche @ jhu.edu)
 
 **Office Hours**: Tuesdays 10:30 AM to 11:30 AM (EST) or by appointment - see Piazza for Zoom link
