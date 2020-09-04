@@ -30,7 +30,7 @@ This course is graded on a satisfactory/unsatisfactory basis.  Grades will be ba
  
 
 ## Course Resources
-* [Piazza Discussion Board](piazza.com/jhu/fall2020/en500111)
+* [Piazza Discussion Board](https://piazza.com/jhu/fall2020/en500111)
 
 
 ## Course Outline
