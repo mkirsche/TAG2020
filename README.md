@@ -19,7 +19,7 @@ Graphs are a mathematical structure used to represent relationships between obje
 
 ## Grading
 
-This course is graded on a satisfactory/unsatisfactory basis.  This grade will be based on two factors:
+This course is graded on a satisfactory/unsatisfactory basis.  Grades will be based on two factors:
  * Regular attendance and participation in the course (at most one absence will be permitted except in the case of extraordinary circumstances)
  * A group presentation about a chosen application of graphs on the final day of class - details to follow 
  
