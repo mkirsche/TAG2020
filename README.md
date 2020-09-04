@@ -39,7 +39,7 @@ Slides will be posted here prior to each lecture, and required readings for each
 
 | Course Session | Dates | Subject | Link to Slides | Required Reading or Viewing |
 |---|---|---|---|---|
-| Week 1 | 9/8, 9/9 | Introductions, Definitions, and Terminology | | None |
+| Week 1 | 9/8, 9/9 | Introductions, Definitions, and Terminology | |<ul><li>[Welcome Survey](https://forms.gle/cYieAp8yH6125Lph8)</li></ul> |
 | Week 2 | 9/15, 9/16 | Path-Finding Algorithms | | |
 | Week 3 | 9/22, 9/23 | Path-Finding in Maps and Navigation Software  | | |
 | Week 4 | 9/29, 9/30 | Social Network Graphs from Friendship to Disease Transmission | | |
