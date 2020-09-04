@@ -32,7 +32,7 @@ Slides will be linked to from here prior to each lecture.
 |---|---|---|---|
 | Week 1 | 9/8 and 9/9 | Introductions, Definitions and Terminology | |
 | Week 2 | 9/15 and 9/16 | Path-Finding Algorithms | |
-| Week 3 | 9/22 and 9/23 | Path-Finding in Practice  | |
+| Week 3 | 9/22 and 9/23 | Path-Finding in Navigation Software  | |
 | Week 4 | 9/29 and 9/30 | Graphs in Social Networks | |
 | Week 5 | 10/6 and 10/7 | Graphs in Search Engines | |
 | Week 6 | 10/13 and 10/14 | Graphs in Computational Biology | |
