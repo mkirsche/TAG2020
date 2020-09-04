@@ -1,17 +1,11 @@
 # Theory and Applications of Graphs, Fall 2020 (EN 500.111)
 
-## Syllabus
-
-## Contact
-
-Please feel free to email me or send me a message on Piazza with any questions or concerns you have!
-
-**Email**: mkirsche at jhu dot edu
+**Professor**: Melanie Kirsche (mkirsche @ jhu.edu)
 
 **Office Hours**: Tuesdays 10:30 to 11:30 or by appointment - see Piazza for Zoom link
 
 
-### Course Meeting Times
+**Course Meeting Times**
 
 | Section | Day | Time 
 |---|---|---|
@@ -22,6 +16,11 @@ Please feel free to email me or send me a message on Piazza with any questions o
 ## Course Description
 
 Graphs are a mathematical structure used to represent relationships between objects, and they can be found throughout the sciences as well as in the computer and phone applications people use every day.  From modeling friendships in social networks, to giving the best directions on a map, to assembling genomes, there is a never-ending range of applications for graphs and the algorithms used to process them.  In this course we will explore some of the real-world applications of graphs which drive the need for efficient algorithms.
+
+## Course Resources
+* [Piazza Discussion Board](piazza.com/jhu/fall2020/en500111)
+
+## Related Optional Readings
 
 
 ## Course Outline
