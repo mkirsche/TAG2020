@@ -2,7 +2,7 @@
 
 ## In-Class Presentations
 
-Presentations should be 12-15 minutes in length, followed by about 3 minutes for questions.  Groups will consist of 3 members, and each group must present on a different topic or problem.
+Presentations should be 12-15 minutes in length, followed by about 3 minutes for questions.  Groups will consist of 3 members, and each group in the same section must present on a different topic or problem.
 
 ## Timeline
 
@@ -57,3 +57,11 @@ Below is a recommended outline for the presentation.  It follows the "hourglass 
 9. Some ideas for finding better solutions or for further speeding up the algorithm on certain kinds of datasets.
 
 Please also include citations for any resources you used (a link to the webpages is fine).  If you have any questions about the presentations, or would like feedback on your idea, you are always welcome to email me or come to my office hours.
+
+## A few example topics
+* Mathematics: automated theorem-proving
+* Physics: particle interaction networks
+* Security: deriving cryptographic hash functions
+* Genomics: inferring phylogenies from genomic sequencing data
+* Biology: modelling the human brain and other structures
+* ...and many others!
