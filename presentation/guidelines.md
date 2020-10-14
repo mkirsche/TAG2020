@@ -21,17 +21,17 @@ Tuesday:
 
 | Group Name  | Group Members | Topic | 
 | ----------- | -----------   | ---------- |
-| Group 1     | pending       | pending    |
-| Group 2     | pending       | pending    |
-| Group 3     | pending       | pending    |
-| Group 4     | pending       | pending    |
+| TJH     | Janice, Tammy, Helene       | Modelling the Human Brain    |
+| Securithm     | Hee-yun, Veric, Vivian       | Graphs in Security    |
+| VSA     | Andrew, Vedant, Saidaman       | Modelling Astrophysics    |
+| NGF     | Feiyang, Nikita, Gabe       | Automaton-guided Theory of Physics   |
 
 Wednesday:
 
 | Group Name  | Group Members | Topic | 
 | ----------- | -----------   | ---------- |
-| Group 1     | pending       | pending    |
-| Group 2     | pending       | pending    |
+| XWK     | Ximena, Khairi, Wendy       | Graphs in Game Theory    |
+| RG     | Gabe, Rohan       | Automated Theorem Proving    |
 
 ## Suggested Presentation Outline
 
