@@ -45,7 +45,7 @@ Slides will be posted here prior to each lecture, and required readings for each
 | Week 4 | 9/29, 9/30 | Social Network Graphs from Friendship to Disease Transmission | [Lecture 4](slides/TAGLecture4.pdf) | None |
 | Week 5 | 10/6, 10/7 | Knowledge Graphs in Databases and Search Engines | [Lecture 5](slides/TAGLecture5.pdf) | <ul><li>[A graph-structured dataset for Wikipedia research](https://wikiworkshop.org/2019/papers/Wiki_Workshop_2019_paper_9.pdf): A paper describing a graph representation of Wikipedia - don't worry too much about the technical specifications, but try to understand the bigger picture of how their graph is structured</li><li>[Xefer](https://xefer.com/WIKIPEDIA): A visualization of Wikipedia hyperlinks leading from philosophy to any set of random or user-selected pages - try it out by entering some article names or by hitting the Random button a few times</li></ul> |
 | Week 6 | 10/13, 10/14 | Graphs in Computational Biology: Genome Assembly and Gene Interactions | [Lecture 6](slides/TAGLecture6.pdf) | <ul><li>[Why are de Bruijn graphs useful for genome assembly?](readings/genomeassembly.pdf): A paper describing the application of different types of graphs to genome assembly.  Note that the figures, although they are referenced throughout the test, are at the end of the document.</li></ul> |
-| Week 7 | 10/27, 10/28 | Graphs to study genomic variation | | None |
+| Week 7 | 10/27, 10/28 | Graphs to study genomic variation | [Lecture 7](slides/TAGLecture7.pdf) | None |
 | Week 8 | 11/3, 11/4 | Dynamic Programming and Decision Trees | | |
 | Week 9 | 11/10, 11/11 | Graphs in Computer Vision and Image Processing | | |
 | Week 10 | 11/17, 11/18 | Student Presentations | | |
