@@ -44,7 +44,7 @@ Below is a recommended outline for the presentation.  It follows the "hourglass 
 ### Background/motivation (4-5 minutes)
 1. Brief description of your topic area
 2. List of one or more data types that can be represented as graphs - what are the nodes and edges for each?
-3. A problem that can be solved with graph algorithms (without going into how it uses the  and why we care about solving that problem
+3. A problem that can be solved with graph algorithms (without going into how it uses them and why we care about solving that problem
 
 ### Technical details and theory (4-5 minutes)
 4. How to transform the problem above into a problem on graphs
