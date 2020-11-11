@@ -48,4 +48,4 @@ Slides will be posted here prior to each lecture, and required readings for each
 | Week 7 | 10/27, 10/28 | Graphs to study genomic variation | [Lecture 7](slides/TAGLecture7.pdf) | None |
 | Week 8 | 11/3, 11/4 | Dynamic Programming and Decision Trees | [Lecture 8](slides/TAGLecture8.pdf) | <ul><li>Optional: [Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2): A brief introduction to how random forests work</li></ul> |
 | Week 9 | 11/10, 11/11 | Graphs in Computer Vision and Image Processing | [Lecture 9](slides/TAGLecture9.pdf) | None |
-| Week 10 | 11/17, 11/18 | Student Presentations | | None |
+| Week 10 | 11/17, 11/18 | Student Presentations | | None, but don't forget to send me your slides by midnight the night before! |
